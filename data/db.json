@@ -1,0 +1,19 @@
+{
+    "exercises": [
+      {
+        "index": 0,
+        "nome": "nome1",
+        "ripetizioni": "2",
+        "intensity": "0",
+        "peso": "10kg"
+      },
+      {
+        "index": 1,
+        "nome": "nome2",
+        "ripetizioni": "2",
+        "intensity": "0",
+        "peso": "10kg"
+      }
+    ]
+  }
+  
